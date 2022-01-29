@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class Boj1920 {
+public class Boj1920_findNum {
 
     public static void main(String[] args) throws IOException {
 
