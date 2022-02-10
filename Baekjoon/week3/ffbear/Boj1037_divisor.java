@@ -1,4 +1,4 @@
-package Baekjoon.week1.ffbear;
+package Baekjoon.week3.ffbear;
 
 import java.io.*;
 import java.util.Arrays;

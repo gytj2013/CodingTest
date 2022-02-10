@@ -1,4 +1,4 @@
-package Baekjoon.week1.ffbear;
+package Baekjoon.week2.ffbear;
 
 import java.io.*;
 import java.util.Stack;
