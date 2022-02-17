@@ -1,5 +1,3 @@
-package Baekjoon.week4.gytj2013;
-
 import java.io.*;
 import java.util.*;
 
