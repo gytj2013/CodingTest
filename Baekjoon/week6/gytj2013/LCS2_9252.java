@@ -1,3 +1,5 @@
+package Baekjoon.week6.gytj2013;
+
 import java.io.*;
 
 public class LCS2_9252 {
