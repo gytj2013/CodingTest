@@ -1,3 +1,5 @@
+package Baekjoon.week7.gytj2013;
+
 import java.util.*;
 
 class Method{
