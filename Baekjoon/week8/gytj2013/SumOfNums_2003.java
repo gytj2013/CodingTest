@@ -1,6 +1,8 @@
+package Baekjoon.week8.gytj2013;
+
 import java.util.*;
 
-public class SumOfNums {
+public class SumOfNums_2003 {
 	static int N, M;
 	static int[] A;
 	static int ans = 0;
