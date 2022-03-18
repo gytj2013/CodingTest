@@ -1,3 +1,5 @@
+package Baekjoon.week8.gytj2013;
+
 import java.util.*;
 
 public class PartialSum_1806 {
