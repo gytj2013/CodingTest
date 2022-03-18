@@ -11,6 +11,7 @@ public class Boj_2798 {
     static int[] nums;
     static boolean[] visited;
 
+
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
