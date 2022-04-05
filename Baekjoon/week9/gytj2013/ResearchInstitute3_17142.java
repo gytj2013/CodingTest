@@ -1,3 +1,5 @@
+package Baekjoon.week9.gytj2013;
+
 import java.util.*;
 
 class Loc{
